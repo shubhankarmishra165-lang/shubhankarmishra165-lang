@@ -1,4 +1,5 @@
-# Hii 👋, I'm Shubhankar Mishra
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> 
+# Hii , I'm Shubhankar Mishra
 # A passionate ML-Student || Future AI Engineer || MERN-Stack Developer
 # 💫 About Me:
 🌱 I’m learning React, Next.js, and cloud deployment with AWS<br>👯 I’m looking to collaborate on open-source projects and innovative web apps<br>💬 Ask me about JavaScript, Python, and building scalable APIs<br>📫 How to reach me: **shubhankarmishar165@gmail.com | LinkedIn -www.linkedin.com/in/shubhankar129 **<br>⚡ Fun fact: I love solving coding challenges and exploring new tech tools!<br>
