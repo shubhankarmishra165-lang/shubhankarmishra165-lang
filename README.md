@@ -2,7 +2,7 @@
 
 # Hii , I'm Shubhankar Mishra
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=40&color=39FF14&background=0D1117&lines=A+passionate+AI+/+ML+Student;Future+Engineer;Full+Stack+Developer;Creative+Thinker;Problem+Solver" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=40&color=39FF14&background=0D1117&lines=A+passionate+AI+/+ML+Student;Future+AI+Engineer;Full+Stack+Developer;Creative+Thinker;Problem+Solver" />
 </div>
 
 # 💫 About Me:
