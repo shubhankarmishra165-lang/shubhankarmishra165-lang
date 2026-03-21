@@ -2,6 +2,10 @@
 
 # Hii , I'm Shubhankar Mishra
 <div align="center">
+  <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="45" height="45">
+</picture>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=40&color=39FF14&background=0D1117&lines=A+passionate+AI+/+ML+Student;Future+AI+Engineer;Full+Stack+Developer;Creative+Thinker;Problem+Solver" />
 </div>
 
