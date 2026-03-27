@@ -1,5 +1,5 @@
- 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=230&section=header&text=Shubhankar%20Mishra&fontSize=62&fontColor=e2e8f0&fontAlignY=42&desc=✨%20MERN%20Stack%20Developer%20%20•%20%20AI%2FML%20%20%20•%20%20Data%20Scientist%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f97316,50:ef4444,75:ec4899,100:d946ef&height=230&section=header&text=Shubhankar%20Mishra&fontSize=62&fontColor=F8FAFC&fontAlignY=42&desc=✨%20MERN%20Stack%20Developer%20%20•%20%20AI%2FML%20%20%20•%20%20Data%20Scientist%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 <div align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
@@ -32,11 +32,11 @@ Hii !! I am Shubhankar,<br>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarmishra165-lang&hide_border=true&background=0d001a&ring=ff6fd8&fire=f97316&currStreakLabel=ff6fd8&sideLabels=a855f7&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarmishra165-lang&hide_border=true&background=0d001a&ring=fb923c&fire=f97316&currStreakLabel=fb923c&sideLabels=D85A30&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarmishra165-lang&bg_color=0d001a&color=ff6fd8&line=a855f7&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarmishra165-lang&bg_color=0d001a&color=fb923c&line=fb923c&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
 
@@ -47,11 +47,11 @@ Hii !! I am Shubhankar,<br>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=shubhankarmishra165-lang&style=for-the-badge&color=ff6fd8&labelColor=0d001a&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=shubhankarmishra165-lang&style=for-the-badge&color=fb923c&labelColor=0d001a&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0206178&height=220&section=footer&text=designed%20and%20built%20by%20Shubhankar%20%F0%9F%94%A5&fontSize=20&fontColor=e2e8f0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f97316,50:ef4444,75:ec4899,100:d946ef&height=220&section=footer&text=designed%20and%20built%20by%20Shubhankar%20%F0%9F%94%A5&fontSize=20&fontColor=e2e8f0&animation=fadeIn" width="100%"/>
 
 </div>
 
