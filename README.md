@@ -21,12 +21,14 @@ Hii !! I am Shubhankar,<br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhankar129)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](shubhankarmishra165@gmail.com)&nbsp;
-[![X](https://img.shields.io/badge/X-%23EA4335.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Shubhankar129)&nbsp;
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Shubhankar129)&nbsp;
 
 ## 💻 Tech Stack
 
 <br/>
+
 <br/>
+
 **⚡Languages**
 
 ![Python](https://img.shields.io/badge/Python-ff6fd8?style=for-the-badge&logo=python&logoColor=white)
