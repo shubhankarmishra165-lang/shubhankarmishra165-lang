@@ -9,7 +9,7 @@
 </div>
 
 # 💫 About Me:
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
+<img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN3a2lkZ3UwanVtcTUxM2poMGhha2p6azN5a3M1bDg4ZnFwOGpndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
@@ -19,12 +19,12 @@ Hii !! I am Shubhankar,<br>
 🤖 Currently learning Machine Learning & Full Stack Development<br>⚡ Fun fact: I love solving coding challenges and exploring new tech tools!<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhankar129)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](shubhankarmishra165@gmail.com)&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Shubhankar129)&nbsp;
 
-## 💻 Tech Stack
+# 💻 Tech Stack:
 
 <br/>
 
@@ -108,8 +108,6 @@ Hii !! I am Shubhankar,<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarmishra165-lang&bg_color=0d001a&color=fb923c&line=fb923c&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
-
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
