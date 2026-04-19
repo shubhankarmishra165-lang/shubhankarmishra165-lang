@@ -24,8 +24,9 @@ Hii !! I am Shubhankar,<br>
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](shubhankarmishra165@gmail.com)&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Shubhankar129)&nbsp;
 
-# 💻 Tech Stack:
 
+# 💻 Tech Stack:
+<div align="center">
 <br/>
 
 <br/>
@@ -45,6 +46,7 @@ Hii !! I am Shubhankar,<br>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-34d399?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-6366f1?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 
@@ -56,6 +58,8 @@ Hii !! I am Shubhankar,<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-facc15?style=for-the-badge&logo=scikit-learn&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-6366f1?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-38bdf8?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-fbbf24?style=for-the-badge&logo=huggingface&logoColor=black)
 
 <br/>
@@ -64,6 +68,7 @@ Hii !! I am Shubhankar,<br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-38bdf8?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <br/>
@@ -93,8 +98,10 @@ Hii !! I am Shubhankar,<br>
 ---
 
 <br/>
+</div>
 
 # 📊 GitHub Stats:
+<div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhankarmishra165-lang&theme=2077" height="170"/>
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shubhankarmishra165-lang&theme=2077" height="170"/>
@@ -108,6 +115,12 @@ Hii !! I am Shubhankar,<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarmishra165-lang&bg_color=0d001a&color=fb923c&line=fb923c&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
+</div>
+<br/>
+
+---
+
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
