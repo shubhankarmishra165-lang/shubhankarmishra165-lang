@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f97316,50:ef4444,75:ec4899,100:d946ef&height=230&section=header&text=Shubhankar%20Mishra&fontSize=62&fontColor=F8FAFC&fontAlignY=42&desc=✨%20MERN%20Stack%20Developer%20%20•%20%20AI%2FML%20%20%20•%20%20Data%20Scientist%20✨&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://raw.githubusercontent.com/shubhankarmishra165-lang/shubhankarmishra165-lang/main/banner.svg" alt="Shubhankar - Full Stack Developer"/>
 <div align="center">
   <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
@@ -7,7 +7,7 @@
 </picture>
 <img 
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Teaching+machines+to+think;Exploring+the+world+of+AI+%26+Data;Building+smart+solutions+with+code;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=f97316&center=true&vCenter=true&random=false&width=700&lines=Teaching+machines+to+think;Exploring+the+world+of+AI+%26+Data;Building+smart+solutions+with+code;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
   
 </div>
 
@@ -135,7 +135,7 @@ Hii !! I am Shubhankar,<br>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f97316,50:ef4444,75:ec4899,100:d946ef&height=220&section=footer&text=designed%20and%20built%20by%20Shubhankar%20%F0%9F%94%A5&fontSize=20&fontColor=e2e8f0&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fb923c,25:f97316,50:ef4444&height=220&section=footer&text=designed%20and%20built%20by%20Shubhankar%20%F0%9F%94%A5&fontSize=20&fontColor=e2e8f0&animation=fadeIn" width="100%"/>
 
 </div>
 
