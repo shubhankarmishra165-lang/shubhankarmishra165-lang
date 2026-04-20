@@ -5,8 +5,12 @@
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" alt="🎯" width="45" height="45">
 </picture>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=4000&pause=1000&center=true&vCenter=true&width=700&height=40&color=e2e8f0&background=0D1117&lines=Teaching+machines+to+think;Exploring+the+world+of+AI+%26+Data;Building+smart+solutions+with+code;Code.+Learn.+Build.+Repeat." />
+<img 
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=700&lines=Teaching+machines+to+think;Exploring+the+world+of+AI+%26+Data;Building+smart+solutions+with+code;Code.+Learn.+Build.+Repeat.)](https://git.io/typing-svg)
+  
 </div>
+
 
 # 💫 About Me:
 <img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN3a2lkZ3UwanVtcTUxM2poMGhha2p6azN5a3M1bDg4ZnFwOGpndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
