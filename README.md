@@ -12,24 +12,34 @@
 </div>
 
 
-# 💫 About Me:
+<h2><a id="about"></a><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40"> About Me : </h2>
 <img align="right" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODN3a2lkZ3UwanVtcTUxM2poMGhha2p6azN5a3M1bDg4ZnFwOGpndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" style="border-radius:16px; margin-left:20px"/>
  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture> 
 Hii !! I am Shubhankar,<br>
-👯 I’m looking to collaborate on open-source projects and innovative web apps<br>💻 Passionate about building real-world projects<br>
-🤖 Currently learning Machine Learning & Full Stack Development<br>⚡ Fun fact: I love solving coding challenges and exploring new tech tools!<br>
 
+- 👯 I’m looking to collaborate on open-source projects and innovative web apps<br>
 
-# 🌐 Socials:
+- 💻 Passionate about building real-world projects<br>
+
+- 🤖 Currently learning Machine Learning & Full Stack Development<br>
+
+- ⚡ Fun fact: I love solving coding challenges and exploring new tech tools!<br>
+
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
+
+<h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Socials : </h2>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shubhankar129)&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](shubhankarmishra165@gmail.com)&nbsp;
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/https://x.com/Shubhankar129)&nbsp;
 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
 
-# 💻 Tech Stack:
+<h2><a id="technical-skills"></a><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> Technical Skills :</h2>
+
 <div align="center">
 <br/>
 
@@ -96,15 +106,10 @@ Hii !! I am Shubhankar,<br>
 ![Jupyter](https://img.shields.io/badge/Jupyter-ff6fd8?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
-
-<br/>
-
----
-
-<br/>
 </div>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
 
-# 📊 GitHub Stats:
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats : </h2>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shubhankarmishra165-lang&theme=2077" height="170"/>
 &nbsp;&nbsp;
@@ -120,11 +125,8 @@ Hii !! I am Shubhankar,<br>
 
 <br/><br/>
 </div>
-<br/>
 
----
-
-<br/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
