@@ -121,10 +121,6 @@ Hii !! I am Shubhankar,<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarmishra165-lang&hide_border=true&background=0d001a&ring=fb923c&fire=f97316&currStreakLabel=fb923c&sideLabels=D85A30&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
 
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhankarmishra165-lang&bg_color=0d001a&color=fb923c&line=fb923c&point=38bdf8&area=true&hide_border=true&border_radius=16" width="95%"/>
-
-<br/><br/>
 </div>
 
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /> 
